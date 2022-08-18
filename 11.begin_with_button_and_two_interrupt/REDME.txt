@@ -1,0 +1,3 @@
+some additional files and drivers hav been deleted. which can
+be retrived by using CubeIDE manually. 4 main files which 
+are required for this are, SSD1306.c, fonts.c and SSD1306.h, fonts.h
